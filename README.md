@@ -7,6 +7,3 @@
 [![lwd-temp's GitHub stats](https://github-readme-stats.lwd-temp.top/api?username=lwd-temp&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.lwd-temp.top/api/top-langs/?username=lwd-temp&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 正在专注于：/Currently working on:
-[![Readme Card](https://github-readme-stats.lwd-temp.top/api/pin/?username=lwd-temp&repo=anti-ip-attribution&show_owner=true)](https://github.com/lwd-temp/anti-ip-attribution)
