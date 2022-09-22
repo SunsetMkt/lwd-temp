@@ -1,5 +1,7 @@
 ### 你好！/Hi there!
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 “我什么都做不到...”/"I can't do anything..."
 
 [GPG公钥/GPG Public Key](lwd-temp_0xFDCB405A_public.asc) [来自密钥服务器/From Key Server](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xafce72de15a64a20f9e731bbc8d10d21fdcb405a)
