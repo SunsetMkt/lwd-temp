@@ -10,8 +10,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwd-temp&langs_count=10&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
+> Gaze at that leviathan spire up high,
+> 
+> Watch as folks leap, down from on high.
+> 
+> In innocence, as a child, I did ponder
+> 
+> Why they fell like snowflakes, in wonder.
+> 
 
-
-https://user-images.githubusercontent.com/26019675/209746917-b4601725-2460-42c0-8d40-5153773eb298.mp4
-
-
+<!-- 你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。 -->
