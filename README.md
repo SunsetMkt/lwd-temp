@@ -9,14 +9,3 @@
 [![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=lwd-temp&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-lwd-temp.vercel.app//api/top-langs/?username=lwd-temp&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-> Gaze at that leviathan spire up high,
-> 
-> Watch as folks leap, down from on high.
-> 
-> In innocence, as a child, I did ponder
-> 
-> Why they fell like snowflakes, in wonder.
-> 
-
-<!-- 你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。 -->
