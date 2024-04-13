@@ -13,3 +13,9 @@
 [![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=lwd-temp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-lwd-temp.vercel.app//api/top-langs/?username=lwd-temp&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### JetBrains Open Source Development License
+
+Special thanks to JetBrains for their support of open-source projects.
+
+[![Copyright © 2000-2024 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o.](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://jb.gg/OpenSourceSupport)
