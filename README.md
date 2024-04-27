@@ -10,9 +10,11 @@
 
 [GPG公钥/GPG Public Key](lwd-temp_0xFDCB405A_public.asc) [来自密钥服务器/From Key Server](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xafce72de15a64a20f9e731bbc8d10d21fdcb405a)
 
+[捐赠门罗币/Donate XMR](https://gist.github.com/lwd-temp/5d4c456e621c3e150f382f09471ed472)
+
 [![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=lwd-temp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-lwd-temp.vercel.app//api/top-langs/?username=lwd-temp&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lwd-temp.vercel.app/api/top-langs/?username=lwd-temp&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### JetBrains Open Source Development License
 
