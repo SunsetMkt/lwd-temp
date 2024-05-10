@@ -15,7 +15,7 @@
 
 ### 统计/Statistics
 
-| [![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=lwd-temp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-lwd-temp.vercel.app/api/top-langs/?username=lwd-temp&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![lwd-temp's GitHub stats](https://github-readme-stats-lwd-temp.vercel.app/api?username=lwd-temp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-lwd-temp.vercel.app/api/top-langs/?username=lwd-temp&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### 致谢/Thanks to
