@@ -30,6 +30,7 @@
 - [GNU Operating System](https://www.gnu.org/home.en.html)
 - [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to open-source community.
 - [Microsoft](https://www.microsoft.com/)
+- [Mozilla](https://www.mozilla.org/)
 - [Tailscale](https://tailscale.com/) - Excellent VPN service for secure networks.
 
 </details>
