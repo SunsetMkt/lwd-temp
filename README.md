@@ -8,11 +8,6 @@
 >
 > [Reference](https://blog.zoom.us/improving-our-policies-as-we-continue-to-enable-global-collaboration/)
 
-### 链接/Links
-
-| [GPG 公钥/GPG Public Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xafce72de15a64a20f9e731bbc8d10d21fdcb405a) | [捐赠门罗币/Donate XMR](https://gist.github.com/SunsetMkt/5d4c456e621c3e150f382f09471ed472) |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-
 ### 统计/Statistics
 
 | [![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
