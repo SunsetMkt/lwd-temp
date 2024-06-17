@@ -31,6 +31,7 @@
 - [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to open-source community.
 - [Microsoft](https://www.microsoft.com/)
 - [Mozilla](https://www.mozilla.org/)
+- [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
 - [Tailscale](https://tailscale.com/) - Excellent VPN service for secure networks.
 
 </details>
